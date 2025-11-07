@@ -13,4 +13,4 @@
 ## Some pictures
 
 
-!(Screenshot 2025-11-07 183327.png)
+![Example Image](Screenshot 2025-11-07 183327.png)
