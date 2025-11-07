@@ -2,7 +2,7 @@
 
 ***Bienvenue dans ma webpage!***
 
-[Courier](mailto:y3210283@gmail.com) / [Résumé](./Resume.pdf)
+[Courier](mailto:y3210283@gmail.com) / [Résumé](./CV-FENG Yuekun-1.docx)
 
 ## Quelques travaux dans le mathématique
 
