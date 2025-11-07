@@ -2,7 +2,7 @@ English / [Français](index_fr.md)
 
 ***Welcome to my webpage!***
 
-[Email](y3210283@gmail.com) / [CV](./Resume.pdf)
+[Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
 ## Some math works
 
