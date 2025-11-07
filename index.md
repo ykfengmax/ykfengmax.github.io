@@ -26,6 +26,3 @@ fetch('https://hits.sh/ykfengmax.github.io/count')
     document.getElementById('visitor-counter').textContent = 'Visits: ' + n;
   });
 </script>
-
-
-![Visits](https://hits.sh/ykfengmax.github.io.svg)
