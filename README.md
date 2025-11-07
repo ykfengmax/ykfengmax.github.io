@@ -1,19 +1,4 @@
-Welcome to my webpage!
+# ykfengmax.github.io
 
-[CV](CV.md)
-
-## Some math works
-
-This is a [report](./report.pdf) of the summer research of lattice models and representation theory.
-
-
-## Some music works
-
-
-## Some pictures
-
-
-![Example Image](Screenshot 2025-11-07 183327.png)
-
-
-![Visits](https://hits.sh/ykfengmax.github.io.svg)
+This repository contains the source of my personal webpage.
+Visit it here: https://ykfengmax.github.io
