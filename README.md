@@ -1,6 +1,6 @@
 # Welcome to my webpage!
 
-[CV][CV.md]
+[CV](CV.md)
 
 ## Some math works
 
