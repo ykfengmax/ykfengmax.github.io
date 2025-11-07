@@ -8,11 +8,11 @@
 
 ### récherche:
 
-(en courant de preparation) C'est une [survey](./intersection.pdf) sur des topics en géométrie algebrique.
+(en courant de preparation) C'est une [survey](./intersection.pdf) (en anglais) sur des topics en géométrie algebrique.
 
-2025.10 C'est une [survey](./representation.pdf) sur les répresentations de groupes symmetrics.
+2025.10 C'est une [survey](./representation.pdf) (en anglais) sur les répresentations de groupes symmetrics.
 
-2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [draft de survey](./draft of survey.pdf).
+2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [draft de survey](./draft of survey.pdf) (toutes en anglais).
 
 
 ### les notes des lectures et des devoirs:
