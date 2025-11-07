@@ -27,20 +27,3 @@ English / [Français](index_fr.md)
 
 ![Example Image](Screenshot 2025-11-07 183327.png)
 
-
-
-<span id="visitor-counter">Visits: 0</span>
-
-<script>
-document.addEventListener('DOMContentLoaded', async () => {
-  try {
-    const res = await fetch('https://hits.sh/ykfengmax.github.io/count');
-    if (!res.ok) throw new Error('Network error');
-    const n = (await res.text()).trim();
-    document.getElementById('visitor-counter').textContent = 'Visits: ' + (n || '0');
-  } catch (e) {
-    console.error('Counter error:', e);
-    document.getElementById('visitor-counter').textContent = 'Visits: 0';
-  }
-});
-</script>
