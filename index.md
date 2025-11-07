@@ -4,11 +4,16 @@ This is my [CV](./Resume.pdf).
 
 ## Some math works
 
-### research
+### research:
 
-This is a [report](./report.pdf) of the summer research of lattice models and representation theory.
+(preparing) This is a [survey](./intersection.pdf) on topics in algebraic geometry.
 
-### lecture notes or homework notes
+2025.10 This is a [survey](./representation.pdf) on symmetric group representations.
+
+2025.8 I attended a summer research in lattice models and representation theory. This is a [report](./report.pdf), a [poster](./poster.pdf), and a [draft of survey](./draft of survey.pdf).
+
+
+### lecture notes or homework notes:
 
 ## Some music works
 
