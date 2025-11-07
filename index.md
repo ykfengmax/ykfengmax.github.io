@@ -1,6 +1,6 @@
 ***Welcome to my webpage!***
 
-This is my [CV](./Resume.pdf).
+[Email](y3210283@gmail.com) / [CV](./Resume.pdf)
 
 ## Some math works
 
@@ -19,6 +19,8 @@ This is my [CV](./Resume.pdf).
 
 
 ## Some pictures
+
+[Flickr](https://www.flickr.com/people/201311233@N05/)
 
 
 ![Example Image](Screenshot 2025-11-07 183327.png)
