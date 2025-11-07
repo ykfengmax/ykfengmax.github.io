@@ -29,12 +29,4 @@ English / [Français](index_fr.md)
 
 
 
-<span id="visitor-counter">Visits: …</span>
-
-<script>
-fetch('https://hits.sh/ykfengmax.github.io/count')
-  .then(r => r.text())
-  .then(n => {
-    document.getElementById('visitor-counter').textContent = 'Visits: ' + n;
-  });
-</script>
+![Visits](https://hits.sh/ykfengmax.github.io.svg?style=flat-square)
