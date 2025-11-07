@@ -4,7 +4,7 @@
 
 ## Some math works
 
-[Open the PDF](./report.pdf)
+This is a [report](./report.pdf) of the summer research of lattice models and representation theory.
 
 
 ## Some music works
