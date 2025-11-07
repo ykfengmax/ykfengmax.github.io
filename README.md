@@ -4,7 +4,7 @@
 
 ## Some math works
 
-![report](report.pdf)
+[Open the PDF](./report.pdf)
 
 
 ## Some music works
