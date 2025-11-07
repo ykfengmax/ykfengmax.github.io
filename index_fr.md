@@ -2,7 +2,7 @@
 
 ***Bienvenue dans ma webpage!***
 
-[Courier](y3210283@gmail.com) / [Résumé](./Resume.pdf)
+[Courier](mailto:y3210283@gmail.com) / [Résumé](./Resume.pdf)
 
 ## Quelques travaux dans le mathématique
 
