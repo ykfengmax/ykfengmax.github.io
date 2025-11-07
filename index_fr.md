@@ -20,7 +20,7 @@
 ## Quelques travaux dans la musique
 
 
-## Quelque photographie
+## Quelques photographies
 
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
