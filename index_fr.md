@@ -6,7 +6,7 @@
 
 ## Quelques travaux dans le mathématique
 
-### récherche:
+### *récherche:*
 
 (en courant de preparation) C'est une [survey](./intersection.pdf) (en anglais) sur des topics en géométrie algebrique.
 
@@ -15,7 +15,7 @@
 2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [draft de survey](./draft of survey.pdf) (toutes en anglais).
 
 
-### les notes des lectures et des devoirs:
+### *les notes des lectures et des devoirs:*
 
 ## Quelques travaux dans la musique
 
