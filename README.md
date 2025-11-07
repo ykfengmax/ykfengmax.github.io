@@ -1,4 +1,4 @@
-# Welcome to my webpage!
+Welcome to my webpage!
 
 [CV](CV.md)
 
