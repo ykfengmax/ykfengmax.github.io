@@ -6,7 +6,7 @@ English / [Français](index_fr.md)
 
 ## Some math works
 
-### research:
+### *research:*
 
 (preparing) This is a [survey](./intersection.pdf) on topics in algebraic geometry.
 
@@ -15,7 +15,7 @@ English / [Français](index_fr.md)
 2025.8 I attended a summer research in lattice models and representation theory. This is a [report](./report.pdf), a [poster](./poster.pdf), and a [draft of survey](./draft of survey.pdf).
 
 
-### lecture notes and homework notes:
+### *lecture notes and homework notes:*
 
 ## Some music works
 
