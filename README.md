@@ -16,4 +16,4 @@ This is a [report](./report.pdf) of the summer research of lattice models and re
 ![Example Image](Screenshot 2025-11-07 183327.png)
 
 
-![Visits](https://hits.sh/ykfengmax.github.io.svg?style=flat-square)
+![Visits](https://hits.sh/ykfengmax.github.io.svg)
