@@ -25,7 +25,7 @@ English / [Français](index_fr.md)
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
 
-![Example Image](Screenshot 2025-11-07 183327.png)
+![Example Image](grass.jpg)
 
 <span id="visitor-counter">Visits: 0</span>
 
