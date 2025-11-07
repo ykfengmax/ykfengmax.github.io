@@ -1,11 +1,14 @@
 Welcome to my webpage!
 
-[CV](CV.md)
+This is my [CV](./Resume.pdf).
 
 ## Some math works
 
+### research
+
 This is a [report](./report.pdf) of the summer research of lattice models and representation theory.
 
+### lecture notes or homework notes
 
 ## Some music works
 
