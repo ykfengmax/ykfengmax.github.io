@@ -24,8 +24,6 @@
 
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
-
-
 ![Example Image](grass.jpg)
 
 <span id="visitor-counter">Visits: 0</span>
