@@ -1,4 +1,4 @@
-[Français](index_fr.md)
+English / [Français](index_fr.md)
 
 ***Welcome to my webpage!***
 
