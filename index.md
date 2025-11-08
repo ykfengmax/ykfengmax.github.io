@@ -11,6 +11,8 @@
 
 [Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
+I am an undergraduate student at Nanjing University in China, majoring in mathematics. My interest lies in algebra and geometry. I also like cello, piano, photography, literature and more.
+
 ## Some math works
 
 ### *research:*
@@ -32,6 +34,10 @@
 ## Some music works
 
 I am currently working on *the Bach project* started from 2022.
+
+2024.6 J.S. Bach: Suite No.4 for Unaccompanied Cello in E-Flat Major, [BWV1010](https://youtu.be/Ue5jIKf0E4A)
+
+2023.12 J.S. Bach: Suite No.3 for Unaccompanied Cello in C Major, [BWV1009](https://youtu.be/pdTsVM8-kdo)
 
 2023.5 J.S. Bach: Suite No.2 for Unaccompanied Cello in d Minor, [BWV1008](https://youtu.be/V0qSKLKkbPI)
 
