@@ -5,7 +5,7 @@
 
 ***Welcome to my webpage!***
 
-<img src="self.png" alt="me" style="float:right; width:300px; margin-left:15px;">
+<img src="self.png" alt="me" style="float:right; width:300px; margin-left:5px;">
 
 [Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
@@ -23,6 +23,9 @@
 ### *lecture notes and homework notes:*
 
 ## Some music works
+
+
+2022.12 J.S. Bach: Suite No.1 for Unacompanied Cello in G Major, [BWV1007](https://youtu.be/UHCd3QYutXc) 
 
 
 ## Some pictures
