@@ -1,5 +1,13 @@
 <span style="float:right;"> English / [Français](index_fr.md) </span>
 
+
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h1 style="margin:0;">Your Name</h1>
+  <span style="font-size:16px;"> English / [Français](index_fr.md) </span>
+</div>
+
+<hr>
+
 ***Welcome to my webpage!***
 
 <img src="self.png" alt="me" style="float:right; width:300px; margin-left:15px;">
