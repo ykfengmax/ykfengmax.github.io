@@ -1,6 +1,6 @@
 <span style="float:right;"> English / [Français](index_fr.md) </span>
 
-# Yuekun Feng <span style="float:right;"> [Français](index_fr.md) </span>
+# Yuekun Feng <span style="float:right;"> English / [Français](index_fr.md) </span>
 
 
 ***Welcome to my webpage!***
