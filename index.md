@@ -8,10 +8,11 @@
 
 ***Welcome to my webpage!***
 
+I am an undergraduate student at Nanjing University in China, majoring in mathematics. My interest lies in algebra and geometry. I also like cello, piano, photography, literature and more.
 
 [Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
-I am an undergraduate student at Nanjing University in China, majoring in mathematics. My interest lies in algebra and geometry. I also like cello, piano, photography, literature and more.
+
 
 ## Some math works
 
