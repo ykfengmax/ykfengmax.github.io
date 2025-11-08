@@ -2,7 +2,7 @@
 
 ***Welcome to my webpage!***
 
-<img src="self.png" alt="me" style="float:right; width:150px; margin-left:15px;">
+<img src="self.png" alt="me" style="float:right; width:300px; margin-left:15px;">
 
 [Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
