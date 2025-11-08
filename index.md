@@ -4,7 +4,7 @@
 
 
 
-<img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
+<img src="self.png" alt="me" style="float:right; width:250px; margin-left:30px;">
 
 ***Welcome to my webpage!***
 
