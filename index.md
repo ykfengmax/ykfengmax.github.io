@@ -36,6 +36,8 @@ I am an undergraduate student at Nanjing University in China, majoring in mathem
 
 I am currently working on *the Bach project* started from 2022.
 
+2024.6 L.V. Beethoven: Sonata No.3 for Piano and Cello in A Major, [Op.69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
+
 2024.6 J.S. Bach: Suite No.4 for Unaccompanied Cello in E-Flat Major, [BWV1010](https://youtu.be/Ue5jIKf0E4A)
 
 2023.12 J.S. Bach: Suite No.3 for Unaccompanied Cello in C Major, [BWV1009](https://youtu.be/pdTsVM8-kdo)
