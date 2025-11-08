@@ -33,7 +33,9 @@
 
 I am currently working on *the Bach project* started from 2022.
 
-2022.12 J.S. Bach: Suite No.1 for Unacompanied Cello in G Major, [BWV1007](https://youtu.be/UHCd3QYutXc) 
+2023.5 J.S. Bach: Suite No.2 for Unaccompanied Cello in d Minor, [BWV1008](https://youtu.be/V0qSKLKkbPI)
+
+2022.12 J.S. Bach: Suite No.1 for Unaccompanied Cello in G Major, [BWV1007](https://youtu.be/UHCd3QYutXc) 
 
 
 ## Some pictures
