@@ -4,7 +4,7 @@
 
 
 
-<img src="self.png" alt="me" style="float:right; width:280px; margin-left:30px;">
+<img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
 
 ***Welcome to my webpage!***
 
@@ -58,12 +58,16 @@ I am currently working on *the Bach project* started from 2022.
 
 ## Some pictures
 
+<img src="grass.png" alt="me" style="float:right; width:250px; margin-left:30px;">
+
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
 
-<img src="grass.png" alt="me" style="float:right; width:250px; margin-left:30px;">
-
 2025.5 with the [Cello Studio](cello studio.jpg) at the Grace Episcopal Church at Madison
 
+2024.6 with the [cellos](xiangyang) team at the National Art Exhibition at Xiangyang
+
 2024.5 with the [cellos](changsha.jpg) of Hunan University Symphony Orchestra at the Hunan Grand Theater at Changsha
+
+
 
