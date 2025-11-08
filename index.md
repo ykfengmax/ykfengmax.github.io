@@ -1,6 +1,6 @@
 <span style="float:right;"> English / [Français](index_fr.md) </span>
 
-<span style="float:right;"> English / [Français](index_fr.md) </span>
+<span style="float:right; margin-top:-2.2em;"> English / [Français](index_fr.md) </span>
 
 
 ***Welcome to my webpage!***
