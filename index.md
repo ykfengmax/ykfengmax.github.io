@@ -6,7 +6,6 @@
   <span style="font-size:16px;"> English / [Français](index_fr.md) </span>
 </div>
 
-<hr>
 
 ***Welcome to my webpage!***
 
