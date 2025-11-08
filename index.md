@@ -24,8 +24,20 @@
 
 ### *lecture notes and homework notes:*
 
+2025 fall:
+[modular forms](ma.md) (graduate)
+algebraic geometry (graduate)
+representation theory
+
+2025 spring: 
+[commutative algebra](ca.md) (graduate)
+[functional analysis](fa.md) (graduate)
+[algebraic topology](at.md)
+[differential geometry](dg.md)
+
 ## Some music works
 
+I am currently working on *the Bach project* started from 2022.
 
 2022.12 J.S. Bach: Suite No.1 for Unacompanied Cello in G Major, [BWV1007](https://youtu.be/UHCd3QYutXc) 
 
