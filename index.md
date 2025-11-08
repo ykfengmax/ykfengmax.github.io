@@ -1,4 +1,4 @@
-English / [Français](index_fr.md)
+<span style="float:right;"> English / [Français](index_fr.md) </span>
 
 ***Welcome to my webpage!***
 
