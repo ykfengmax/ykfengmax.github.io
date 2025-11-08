@@ -24,24 +24,10 @@
 
 ### *lecture notes and homework notes:*
 
-2025 fall:
-
-[modular forms](ma.md) (graduate)
-
-algebraic geometry (graduate)
-
-representation theory
+2025 fall: [modular forms](ma.md) (graduate) / algebraic geometry (graduate) / representation theory
 
 
-2025 spring: 
-
-[commutative algebra](ca.md) (graduate)
-
-[functional analysis](fa.md) (graduate)
-
-[algebraic topology](at.md)
-
-[differential geometry](dg.md)
+2025 spring: [commutative algebra](ca.md) (graduate) / [functional analysis](fa.md) (graduate) / [algebraic topology](at.md) / [differential geometry](dg.md)
 
 ## Some music works
 
