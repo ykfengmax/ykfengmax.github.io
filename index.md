@@ -52,8 +52,6 @@ I am currently working on *the Bach project* started from 2022.
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
 
-![Example Image](grass.png)
-
 <img src="grass.png" alt="me" style="float:right; width:250px; margin-left:30px;">
 
 <span id="visitor-counter">Visits: 0</span>
