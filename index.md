@@ -63,5 +63,7 @@ I am currently working on *the Bach project* started from 2022.
 
 <img src="grass.png" alt="me" style="float:right; width:250px; margin-left:30px;">
 
-2025.5 with the [Cello Studio](cello studio.jpg)
+2025.5 with the [Cello Studio](cello studio.jpg) at the Grace Episcopal Church at Madison
+
+2024.5 with the [cellos](changsha.jpg) of Hunan University Symphony Orchestra at the Hunan Grand Theater at Changsha
 
