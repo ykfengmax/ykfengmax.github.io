@@ -3,9 +3,11 @@
 <span style="float:right; margin-top:-3em;"> English / [Français](index_fr.md) </span>
 
 
+
+<img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
+
 ***Welcome to my webpage!***
 
-<img src="self.png" alt="me" style="float:right; width:300px; margin-left:5px;">
 
 [Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
 
