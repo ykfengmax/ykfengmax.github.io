@@ -20,7 +20,7 @@ Je suis un étudiant senior à l'Université de Nankin à la Chine, spécialisé
 
 2025.10 C'est une [enquête](./representation.pdf) (en anglais) sur les répresentations de groupes symmetrics.
 
-2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [ébauche d'enquête](./draft of survey.pdf) (toutes en anglais).
+2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est un [rapport](./report.pdf), une [affiche](./poster.pdf), et une [ébauche d'enquête](./draft of survey.pdf) (toutes en anglais).
 
 
 ### *les notes des conférences et des devoirs :*
