@@ -65,7 +65,7 @@ Je travail couranment en *le projet de Bach* commencé de 2022.
 
 2025.5 avec le [studio de violoncelle](cello studio.jpg) à l'Eglise Grace Episcopal à Madison
 
-2024.6 avec l['équipe du violoncelle](xiangyang) à l'Exhibition d'Art Nationnelle à Xiangyang
+2024.6 avec l['équipe du violoncelle](xiangyang.jpg) à l'Exhibition d'Art Nationnelle à Xiangyang
 
 2024.5 avec les [violoncelles](changsha.jpg) de l'Orchestre Synphonique d'Université Hunan à la Théatre Hunan Grande à Changsha
 
