@@ -35,7 +35,7 @@ Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur au ma
 
 2024 summer: introduction to manifolds
 
-## Quelques travaux a la musique
+## Quelques travaux à la musique
 
 
 Je travail couranment en *le projet de Bach* commencé de 2022.
@@ -56,7 +56,7 @@ Je travail couranment en *le projet de Bach* commencé de 2022.
 
 
 
-## Quelques photographies
+## Quelques images
 
 <img src="grass.png" alt="me" style="float:right; width:250px; margin-left:30px;">
 
