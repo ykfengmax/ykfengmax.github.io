@@ -6,15 +6,15 @@
 
 <img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
 
-***Bienvenue dans ma webpage!***
+***Bienvenue dans ma webpage !***
 
-Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur au mathématique. Dans ma troixième année, J'ai visité l'University of Wisconsin-Madison aux Etates Unis où j'ai étudié dans le thematic track de mathématique et dans l'école de la musique. Mon intéret du mathématique reste dans l'algèbre et le géométrie. J'aime aussi le violoncelle, le piano, photographie, litérature et plus.
+Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur en mathématiques. Dans ma troixième année, J'ai visité l'University of Wisconsin-Madison aux Etates Unis où j'ai étudié dans le thematic track de mathématique et dans l'école de la musique. Mon intéret du mathématique reste dans l'algèbre et le géométrie. J'aime aussi le violoncelle, le piano, photographie, litérature et plus.
 
 [Courier](mailto:y3210283@gmail.com) / [CV](./CV-FENG Yuekun-1.docx)
 
-## Quelques travaux au mathématique
+## Quelques travaux en mathématiques
 
-### *récherche:*
+### *récherche :*
 
 (encore de preparation) C'est une [survey](./intersection.pdf) (en anglais) sur des topics en géométrie algebrique.
 
@@ -23,17 +23,17 @@ Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur au ma
 2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [draft de survey](./draft of survey.pdf) (toutes en anglais).
 
 
-### *les notes des lectures et des devoirs:*
+### *les notes des lectures et des devoirs :*
 
-2025 fall: [modular forms](mf.md) (graduate) / algebraic geometry (graduate) / representation theory
+2025 automne : [formes modulaire](mf.md) (supérieure) / géométrie algébrique (supérieure) / théorie de répresentation 
 
-2025 summer: Lie groups
+2025 été : groupes de Lie
 
-2025 spring: [commutative algebra](ca.md) (graduate) / [functional analysis](fa.md) (graduate) / [algebraic topology](at.md) / [differential geometry](dg.md)
+2025 printemps : [algèbre commutatif](ca.md) (supérieure) / [analyse functionelle](fa.md) (supérieure) / [topologie algébrique](at.md) / [géométrie différentielle](dg.md)
 
-2024 fall: real analysis (graduate)
+2024 automne : analyse réel (supérieure)
 
-2024 summer: introduction to manifolds
+2024 été : variétés
 
 ## Quelques travaux à la musique
 
