@@ -6,7 +6,7 @@
 
 <img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
 
-***Bienvenue dans ma webpage !***
+***Bienvenue sur ma page web !***
 
 Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur en mathématiques. Dans ma troixième année, J'ai visité l'University of Wisconsin-Madison aux Etates Unis où j'ai étudié dans le thematic track de mathématique et dans l'école de la musique. Mon intéret du mathématique reste dans l'algèbre et le géométrie. J'aime aussi le violoncelle, le piano, photographie, litérature et plus.
 
