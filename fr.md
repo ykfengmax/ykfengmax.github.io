@@ -8,7 +8,7 @@
 
 ***Bienvenue sur ma page web !***
 
-Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur en mathématiques. Dans ma troixième année, J'ai visité l'University of Wisconsin-Madison aux Etates Unis où j'ai étudié dans le thematic track de mathématique et dans l'école de la musique. Mon intéret du mathématique reste dans l'algèbre et le géométrie. J'aime aussi le violoncelle, le piano, photographie, litérature et plus.
+Je suis un étudiant senior à l'Université de Nankin à la Chine, spécialisé en mathématiques. Dans ma troixième année, j'ai visité l'Université de Wisconsin-Madison aux Etates-Unis où j'ai étudié dans la piste thématique de mathématique et dans l'école de la musique. Mon intéret du mathématique reste dans l'algèbre et le géométrie. J'aime aussi le violoncelle, le piano, litérature, photographie, films et plus.
 
 [Courier](mailto:y3210283@gmail.com) / [CV](./CV-FENG Yuekun-1.docx)
 
@@ -16,22 +16,22 @@ Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur en ma
 
 ### *récherche :*
 
-(encore de preparation) C'est une [survey](./intersection.pdf) (en anglais) sur des topics en géométrie algebrique.
+(encore de préparation) C'est une [enquête](./intersection.pdf) (en anglais) sur des topics en géométrie algebrique.
 
-2025.10 C'est une [survey](./representation.pdf) (en anglais) sur les répresentations de groupes symmetrics.
+2025.10 C'est une [enquête](./representation.pdf) (en anglais) sur les répresentations de groupes symmetrics.
 
-2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [draft de survey](./draft of survey.pdf) (toutes en anglais).
+2025.8 J'ai participé à une récherche d'été sur les modèles lattices et la théorie de répresentation. C'est une [reportage](./report.pdf), un [poster](./poster.pdf), et une [ébauche d'enquête](./draft of survey.pdf) (toutes en anglais).
 
 
-### *les notes des lectures et des devoirs :*
+### *les notes des conférences et des devoirs :*
 
 2025 automne : [formes modulaire](mf.md) (supérieure) / géométrie algébrique (supérieure) / théorie de répresentation 
 
 2025 été : groupes de Lie
 
-2025 printemps : [algèbre commutatif](ca.md) (supérieure) / [analyse functionelle](fa.md) (supérieure) / [topologie algébrique](at.md) / [géométrie différentielle](dg.md)
+2025 printemps : [algèbre commutatif](ca.md) (supérieure) / [sujets dans analyse functionelle](fa.md) (supérieure) / [topologie algébrique](at.md) / [géométrie différentielle](dg.md)
 
-2024 automne : analyse réel (supérieure)
+2024 automne : analyse réelle (supérieure)
 
 2024 été : variétés
 
@@ -40,19 +40,19 @@ Je suis un étudiant senior à l'Université de Nankin à la Chine, majeur en ma
 
 Je travail couranment en *le projet de Bach* commencé de 2022.
 
-(encore de préparation) J.S. Bach : suite no.5 pour le violoncelle unaccompanié dans c minuer, BWV1011
+(encore de préparation) J. S. Bach : suite no.5 pour le violoncelle non-accompagné en do minuer, BWV 1011
 
 2025.5 C. Cobley : [Navidson Record](https://www.flipsnack.com/uwmadisonmusic/124dancavanagh-digital.html) (première du monde ! )
 
-2024.6 L.V. Beethoven : sonate no.3 pour piano et violoncelle dans A majeur, [Op.69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
+2024.6 L. V. Beethoven : sonate no.3 pour piano et violoncelle en La majeur, [Op.69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
 
-2024.6 J.S. Bach : suite no.4 pour le violoncelle unaccompanié dans E-Flat majeur, [BWV1010](https://youtu.be/Ue5jIKf0E4A)
+2024.6 J. S. Bach : suite no.4 pour le violoncelle non-accompagné en Mi-bémol majeur, [BWV 1010](https://youtu.be/Ue5jIKf0E4A)
 
-2023.12 J.S. Bach : suite no.3 pour le violoncelle unaccompanié dans C majeur, [BWV1009](https://youtu.be/pdTsVM8-kdo)
+2023.12 J. S. Bach : suite no.3 pour le violoncelle non-accompagné en Do majeur, [BWV 1009](https://youtu.be/pdTsVM8-kdo)
 
-2023.5 J.S. Bach : suite no.2 pour le violoncelle unaccompanié dans d mineur, [BWV1008](https://youtu.be/V0qSKLKkbPI)
+2023.5 J. S. Bach : suite no.2 pour le violoncelle non-accompagné en ré mineur, [BWV 1008](https://youtu.be/V0qSKLKkbPI)
 
-2022.12 J.S. Bach : suite no.1 pour le violoncelle unaccompanié dans G majeur, [BWV1007](https://youtu.be/UHCd3QYutXc) 
+2022.12 J.S. Bach : suite no.1 pour le violoncelle non-accompagné en Sol majeur, [BWV 1007](https://youtu.be/UHCd3QYutXc) 
 
 
 
