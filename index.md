@@ -1,8 +1,5 @@
 
 
-<span style="float:right; margin-top:-3em;"> English / [Français](fr.md) </span>
-
-
 
 <img src="self.png" alt="me" style="float:right; width:300px; margin-left:30px;">
 
