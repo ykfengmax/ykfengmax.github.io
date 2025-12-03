@@ -21,7 +21,7 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 2025.8 I attended a summer research in lattice models and representation theory. This is a [report](./report.pdf), a [poster](./poster.pdf), and a [draft of survey](./draft_of_survey.pdf).
 
-2024.2 I worked with a team in AI using tools from random forest and developed a [paper](2408868 C final(1).pdf).
+2024.2 I worked with a team in AI using tools from random forest and developed a [paper](model.pdf).
 
 ### *lecture notes and homework notes:*
 
