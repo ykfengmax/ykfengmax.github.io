@@ -15,13 +15,17 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 ### *research:*
 
-(preparing) This is a [survey](./intersection.pdf) on topics in algebraic geometry.
+(preparing) this is a survey on topics in modular forms
 
-2025.10 This is a [survey](./representation.pdf) on symmetric group representations.
+(preparing) this is a [survey](./intersection.pdf) on intersection theory
 
-2025.8 I attended a summer research in lattice models and representation theory. This is a [report](./report.pdf), a [poster](./poster.pdf), and a [draft of survey](./survey.pdf).
+(preparing) this is a [survey](./algebraic_groups.pdf) on algebraic groups
 
-2024.2 I worked with a team in AI using tools from random forest and developed a [paper](./model.pdf).
+2025.10 this is a [survey](./representation.pdf) on symmetric group representations
+
+2025.8 I attended a summer research in lattice models and representation theory. This is a [report](./report.pdf), a [poster](./poster.pdf), and a [draft of survey](./survey.pdf)
+
+2024.2 I worked with a team in AI using tools from random forest and developed a [paper](./model.pdf)
 
 ### *lecture notes and homework notes:*
 
