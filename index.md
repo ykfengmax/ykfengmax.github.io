@@ -35,7 +35,7 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 2024 summer: introduction to manifolds
 
-### *Colloquia:*
+### *colloquia:*
 
 [some colloquium notes:](colloquium.md) 
 
