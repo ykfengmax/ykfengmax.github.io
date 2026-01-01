@@ -15,7 +15,7 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 ### *research:*
 
-(preparing) this is a survey on topics in modular forms
+(preparing) survey on topics in modular forms
 
 (preparing) this is a [survey](./intersection.pdf) on intersection theory
 
