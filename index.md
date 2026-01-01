@@ -7,7 +7,7 @@
 
 I am a senior undergraduate student at Nanjing University in China, majoring in mathematics. In my junior year, I visited University of Wisconsin-Madison in the United States where I studied in both the thematic track of mathematics and in the music school. My math interest lies in algebra and geometry. I also like cello, piano, photography and more.
 
-[Email](mailto:y3210283@gmail.com) / [CV](./Resume.pdf)
+[Email](mailto:y3210283@gmail.com) / [CV (en)](./Resume.pdf) / [CV (fr)](./CV-FENG Yuekun.pdf)
 
 
 
