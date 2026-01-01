@@ -41,19 +41,19 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 I am currently working on *the Bach project* started from 2022.
 
-(preparing) J.S. Bach: Suite No.5 for Unaccompanied Cello in c Minor, BWV1011
+(preparing) J.S. Bach: Suite No. 5 for Unaccompanied Cello in c Minor, BWV 1011
 
 2025.5 C. Cobley: [Navidson Record](https://www.flipsnack.com/uwmadisonmusic/124dancavanagh-digital.html) (world premiere!)
 
-2024.6 L.V. Beethoven: Sonata No.3 for Piano and Cello in A Major, [Op.69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
+2024.6 L.V. Beethoven: Sonata No. 3 for Piano and Cello in A Major, [Op. 69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
 
-2024.6 J.S. Bach: Suite No.4 for Unaccompanied Cello in E-Flat Major, [BWV1010](https://youtu.be/Ue5jIKf0E4A)
+2024.6 J.S. Bach: Suite No. 4 for Unaccompanied Cello in E-Flat Major, [BWV 1010](https://youtu.be/Ue5jIKf0E4A)
 
-2023.12 J.S. Bach: Suite No.3 for Unaccompanied Cello in C Major, [BWV1009](https://youtu.be/pdTsVM8-kdo)
+2023.12 J.S. Bach: Suite No. 3 for Unaccompanied Cello in C Major, [BWV 1009](https://youtu.be/pdTsVM8-kdo)
 
-2023.5 J.S. Bach: Suite No.2 for Unaccompanied Cello in d Minor, [BWV1008](https://youtu.be/V0qSKLKkbPI)
+2023.5 J.S. Bach: Suite No. 2 for Unaccompanied Cello in d Minor, [BWV 1008](https://youtu.be/V0qSKLKkbPI)
 
-2022.12 J.S. Bach: Suite No.1 for Unaccompanied Cello in G Major, [BWV1007](https://youtu.be/UHCd3QYutXc) 
+2022.12 J.S. Bach: Suite No. 1 for Unaccompanied Cello in G Major, [BWV 1007](https://youtu.be/UHCd3QYutXc) 
 
 
 ## Some pictures
@@ -62,16 +62,14 @@ I am currently working on *the Bach project* started from 2022.
 
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
+2025.12 with the [cellos](photo.jpg) at the Enling Hall of Nanjing University
 
 2025.5 with the [Cello Studio](cello studio.jpg) at the Grace Episcopal Church at Madison
 
 2024.6 with the [cello team](xiangyang.jpg) at the National Art Exhibition at Xiangyang
 
-
-
-Last updated: Jan. 1, 2026
-
 2024.5 with the [cellos](changsha.jpg) of Hunan University Symphony Orchestra at the Hunan Grand Theater at Changsha
 
 
 
+Last updated: Jan. 1, 2026
