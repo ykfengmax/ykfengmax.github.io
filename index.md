@@ -68,7 +68,7 @@ I am currently working on *the Bach project* started from 2022.
 
 [Flickr](https://www.flickr.com/people/201311233@N05/)
 
-2025.12 with the [cellos](photo.jpg) at the Enling Hall of Nanjing University
+2025.12 with the [cellos](photo.jpg) at the Enling Hall of Nanjing University at Nanjing
 
 2025.5 with the [Cello Studio](cello studio.jpg) at the Grace Episcopal Church at Madison
 
