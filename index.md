@@ -35,6 +35,8 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 2024 summer: introduction to manifolds
 
+### [*Some colloquium notes:*](colloquium.md)
+
 ## Some music works
 
 I am currently working on *the Bach project* started from 2022.
@@ -64,6 +66,10 @@ I am currently working on *the Bach project* started from 2022.
 2025.5 with the [Cello Studio](cello studio.jpg) at the Grace Episcopal Church at Madison
 
 2024.6 with the [cello team](xiangyang.jpg) at the National Art Exhibition at Xiangyang
+
+
+
+Last updated: Jan. 1, 2026
 
 2024.5 with the [cellos](changsha.jpg) of Hunan University Symphony Orchestra at the Hunan Grand Theater at Changsha
 
