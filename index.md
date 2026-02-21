@@ -33,7 +33,7 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 2025 summer: Lie groups
 
-2025 spring: [commutative algebra](ca.md) (graduate) / [functional analysis](fa.md) (graduate) / [algebraic topology](at.md) / [differential geometry](dg.md)
+2025 spring: [commutative algebra](ca.md) (graduate) / [functional analysis](fa.md) (graduate) / algebraic topology / differential geometry
 
 2024 fall: real analysis (graduate)
 
