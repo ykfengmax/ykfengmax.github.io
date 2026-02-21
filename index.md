@@ -78,4 +78,4 @@ I am currently working on *the Bach project* started from 2022.
 
 
 
-Last updated: Jan. 1, 2026
+Last updated: Feb. 21, 2026
