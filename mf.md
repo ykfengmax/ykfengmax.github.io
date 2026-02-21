@@ -3,7 +3,7 @@ Homework:
 
 Diamond, Shurman, GTM 228
 
-**Chapter 1: Modular Forms, Elliptic Curves and Modular Curves**
+## Chapter 1: Modular Forms, Elliptic Curves and Modular Curves
 
 [1.1 First definitions and examples](./ds1.1.pdf)
 
