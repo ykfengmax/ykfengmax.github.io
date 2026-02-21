@@ -16,7 +16,7 @@ Diamond, Shurman, GTM 228
 [1.5 Modular curves and moduli spaces](./ds1.5.pdf)
 
 
-**Chapter 2: Modular Curves as Riemann Surfaces**
+#### Chapter 2: Modular Curves as Riemann Surfaces
 
 [2.1 Topology](./ds2.1 2.pdf)
 
