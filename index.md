@@ -49,7 +49,7 @@ I am currently working on *the Bach project* started from 2022.
 
 (preparing) J.S. Bach: Suite No. 5 for Unaccompanied Cello in c Minor, BWV 1011
 
-2025.5 C. Cobley: [Navidson Record](https://www.flipsnack.com/uwmadisonmusic/124dancavanagh-digital.html) (world premiere!)
+2025.5 C. Cobley: [Navidson Record](./Dan Cavanagh Faculty Composition Recital.pdf) (world premiere!)
 
 2024.6 L.V. Beethoven: Sonata No. 3 for Piano and Cello in A Major, [Op. 69](https://www.bilibili.com/video/BV1DsGoeKEyD/)
 
