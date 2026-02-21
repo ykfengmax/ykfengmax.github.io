@@ -3,7 +3,7 @@ Homework:
 
 Diamond, Shurman, GTM 228
 
-Chapter 1: Modular forms, modular curves
+**Chapter 1: Modular Forms, Elliptic Curves and Modular Curves**
 
 [1.1 First definitions and examples](./ds1.1.pdf)
 
@@ -16,7 +16,7 @@ Chapter 1: Modular forms, modular curves
 [1.5 Modular curves and moduli spaces](./ds1.5.pdf)
 
 
-Chapter 2: Modular Curves as Riemann Surfaces
+**Chapter 2: Modular Curves as Riemann Surfaces**
 
 [2.1 Topology](./ds2.1 2.pdf)
 
@@ -26,9 +26,10 @@ Chapter 2: Modular Curves as Riemann Surfaces
 
 [2.4 Cusps](./ds2.4.pdf)
 
-2.5 Modularity theorem
+2.5 Modular curves and Modularity
 
-Chapter 3: Dimension Formulas
+
+**Chapter 3: Dimension Formulas**
 
 [3.1 The genus](./ds3.1.pdf)
 
@@ -36,7 +37,7 @@ Chapter 3: Dimension Formulas
 
 [3.3 Meromorphic differentials](./ds3.3.pdf)
 
-[3.4 Divisors and the Riemann-Roch theorem](./ds3.4.pdf)
+[3.4 Divisors and the Riemann-Roch Theorem](./ds3.4.pdf)
 
 [3.5 Dimension formulas for even $k$](./ds3.5.pdf)
 
@@ -48,7 +49,8 @@ Chapter 3: Dimension Formulas
 
 3.9 More on dimension formulas
 
-Chapter 4: Eisenstein Series
+
+**Chapter 4: Eisenstein Series**
 
 [4.1 Eisenstein series for $\SL_2(\Z)$](./ds4.1.pdf)
 
@@ -72,7 +74,8 @@ Chapter 4: Eisenstein Series
 
 4.11 Modular forms via theta functions
 
-Chapter 5: Hecke Operators
+
+**Chapter 5: Hecke Operators**
 
 [5.1 The double coset operator](./ds5.1 2.pdf)
 
@@ -96,6 +99,8 @@ Chapter 5: Hecke Operators
 
 5.11 Eisenstein series again
 
-Chapter 6: Jacobians and Abelian Varieties
 
+**Chapter 6: Jacobians and Abelian Varieties**
+
+6.1 Integration, homology, the Jacobian, and Modularity
 
