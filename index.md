@@ -29,8 +29,6 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 ### *lecture notes and homework notes:*
 
-coming in 2026 spring: algebraic number theory (graduate)
-
 2025 fall: [modular forms](mf.md) (graduate) / algebraic geometry (graduate) / representation theory
 
 2025 summer: Lie groups
