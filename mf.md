@@ -3,7 +3,7 @@ Homework:
 
 Diamond, Shurman, GTM 228
 
-#### Chapter 1: Modular Forms, Elliptic Curves and Modular Curves
+### Chapter 1: Modular Forms, Elliptic Curves and Modular Curves
 
 [1.1 First definitions and examples](./ds1.1.pdf)
 
@@ -16,7 +16,7 @@ Diamond, Shurman, GTM 228
 [1.5 Modular curves and moduli spaces](./ds1.5.pdf)
 
 
-#### Chapter 2: Modular Curves as Riemann Surfaces
+### Chapter 2: Modular Curves as Riemann Surfaces
 
 [2.1 Topology](./ds2.1 2.pdf)
 
@@ -29,7 +29,7 @@ Diamond, Shurman, GTM 228
 2.5 Modular curves and Modularity
 
 
-**Chapter 3: Dimension Formulas**
+### Chapter 3: Dimension Formulas
 
 [3.1 The genus](./ds3.1.pdf)
 
@@ -50,7 +50,7 @@ Diamond, Shurman, GTM 228
 3.9 More on dimension formulas
 
 
-**Chapter 4: Eisenstein Series**
+### Chapter 4: Eisenstein Series
 
 [4.1 Eisenstein series for $\SL_2(\Z)$](./ds4.1.pdf)
 
@@ -75,7 +75,7 @@ Diamond, Shurman, GTM 228
 4.11 Modular forms via theta functions
 
 
-**Chapter 5: Hecke Operators**
+### Chapter 5: Hecke Operators
 
 [5.1 The double coset operator](./ds5.1 2.pdf)
 
@@ -100,7 +100,21 @@ Diamond, Shurman, GTM 228
 5.11 Eisenstein series again
 
 
-**Chapter 6: Jacobians and Abelian Varieties**
+### Chapter 6: Jacobians and Abelian Varieties
 
 6.1 Integration, homology, the Jacobian, and Modularity
 
+
+### Chapter 7: Modular Curves as Algebraic Curves
+
+7.1 Elliptic curves as algebraic curves
+
+7.2 Algebraic curves and their function fields
+
+7.3 Divisors on curves
+
+### Chapter 9 Galois Representations
+
+9.1 Galois number fields
+
+9.2 The $l$-adic integers and the $l$-adic numbers
