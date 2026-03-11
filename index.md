@@ -19,7 +19,7 @@ I am a senior undergraduate student at Nanjing University in China, majoring in 
 
 (preparing) this is a [survey](./intersection.pdf) on intersection theory
 
-(preparing) this is a [survey](./algebraic_groups.pdf) on algebraic groups
+(preparing) this is a [survey](./alg_grp.pdf) on algebraic groups
 
 2025.10 this is a [survey](./representation.pdf) on symmetric group representations
 
